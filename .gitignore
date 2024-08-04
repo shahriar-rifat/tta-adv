@@ -1,0 +1,11 @@
+#ignore the ipynb notebooks
+# ignore the image files
+*.png
+*.jpg 
+*.txt 
+*.json
+*.npy
+*.txt
+*.pyc
+results*
+data/CIFAR-10-C
